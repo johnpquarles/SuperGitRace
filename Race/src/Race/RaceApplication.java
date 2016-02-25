@@ -7,7 +7,7 @@ public class RaceApplication {
 
 		System.out.println("VROOM VROOM VROOM");
 		System.out.println("I AM EVIL!!!!"); // evil twin code
-		// whatever evil twin!!
+		//evil twins rule!
 	}
 
 }

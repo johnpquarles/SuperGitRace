@@ -7,8 +7,8 @@ public class RaceApplication {
 		// TODO Auto-generated method stub
 
 		System.out.println("VROOM VROOM VROOM");
-		System.out.println("ZOOM ZOOM ZOOM"); // evil twin code
-		// whatever evil twin!!
+		System.out.println("I AM EVIL!!!!"); // evil twin code
+		//evil twins rule!
 	}
 
 }

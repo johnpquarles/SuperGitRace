@@ -6,6 +6,7 @@ public class RaceApplication {
 		// TODO Auto-generated method stub
 
 		System.out.println("VROOM VROOM VROOM");
+		System.out.println("ZOOM ZOOM ZOOM"); // evil twin code
 	}
 
 }
